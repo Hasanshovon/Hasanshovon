@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Specialized in AI, Machine Learning, signal processing, image processing, audio processing, and exploring the basics of data mining<br>👯 I’m currently advancing through an M.Sc in Signal Processing and Machine Learning Engineering.<br>🤝 I have a Strong foundation in Full Stack Web Development, blending practical and theoretical aspects of technology.<br>
+🔭 Specialized in AI, Machine Learning, signal processing, image processing, audio processing, and exploring the basics of data mining<br>👯 I’m currently advancing through an M.Sc in Signal Processing and Machine Learning Engineering.<br>🤝 I have also a good foundation in Full Stack Web Development, blending practical and theoretical aspects of technology.<br>
 
 
 ## 🌐 Socials:
